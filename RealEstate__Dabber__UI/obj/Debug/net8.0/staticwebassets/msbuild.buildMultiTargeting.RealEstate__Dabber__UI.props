@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RealEstate__Dabber__UI.props" />
+</Project>

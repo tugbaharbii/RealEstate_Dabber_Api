@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RealEstate_Dabber_Api.props" />
+</Project>

@@ -1,0 +1,6 @@
+@RealEstate_Dabber_UI_HostAddress = http://localhost:5186
+
+GET {{RealEstate_Dabber_UI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
