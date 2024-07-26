@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|c:\\users\\hp\\source\\repos\\realestate_dabber_api\\realestate__dabber__ui\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|solutionrelative:realestate__dabber__ui\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|c:\\users\\hp\\source\\repos\\realestate_dabber_api\\realestate__dabber__ui\\views\\statistics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|solutionrelative:realestate__dabber__ui\\views\\statistics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|c:\\users\\hp\\source\\repos\\realestate_dabber_api\\realestate__dabber__ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|solutionrelative:realestate__dabber__ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|c:\\users\\hp\\source\\repos\\realestate_dabber_api\\realestate__dabber__ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|solutionrelative:realestate__dabber__ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|c:\\users\\hp\\source\\repos\\realestate_dabber_api\\realestate__dabber__ui\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|solutionrelative:realestate__dabber__ui\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4E970-A844-4F7C-9473-387CF40F46B9}|RealEstate_Dabber_Api\\RealEstate_Dabber_Api.csproj|c:\\users\\hp\\source\\repos\\realestate_dabber_api\\realestate_dabber_api\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4E970-A844-4F7C-9473-387CF40F46B9}|RealEstate_Dabber_Api\\RealEstate_Dabber_Api.csproj|solutionrelative:realestate_dabber_api\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4E970-A844-4F7C-9473-387CF40F46B9}|RealEstate_Dabber_Api\\RealEstate_Dabber_Api.csproj|c:\\users\\hp\\source\\repos\\realestate_dabber_api\\realestate_dabber_api\\repositories\\statisticsrepositories\\statisticsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4E970-A844-4F7C-9473-387CF40F46B9}|RealEstate_Dabber_Api\\RealEstate_Dabber_Api.csproj|solutionrelative:realestate_dabber_api\\repositories\\statisticsrepositories\\statisticsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4E970-A844-4F7C-9473-387CF40F46B9}|RealEstate_Dabber_Api\\RealEstate_Dabber_Api.csproj|c:\\users\\hp\\source\\repos\\realestate_dabber_api\\realestate_dabber_api\\repositories\\statisticsrepositories\\istatisticsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4E970-A844-4F7C-9473-387CF40F46B9}|RealEstate_Dabber_Api\\RealEstate_Dabber_Api.csproj|solutionrelative:realestate_dabber_api\\repositories\\statisticsrepositories\\istatisticsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4E970-A844-4F7C-9473-387CF40F46B9}|RealEstate_Dabber_Api\\RealEstate_Dabber_Api.csproj|c:\\users\\hp\\source\\repos\\realestate_dabber_api\\realestate_dabber_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4E970-A844-4F7C-9473-387CF40F46B9}|RealEstate_Dabber_Api\\RealEstate_Dabber_Api.csproj|solutionrelative:realestate_dabber_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +37,8 @@
       "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
-          "DockedHeight": 281,
-          "SelectedChildIndex": 2,
+          "DockedHeight": 321,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,33 +50,93 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "RealEstate__Dabber__UI\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "RealEstate__Dabber__UI\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T15:58:04.953Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "RealEstate__Dabber__UI\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "RealEstate__Dabber__UI\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Views\\Statistics\\Index.cshtml",
+              "RelativeDocumentMoniker": "RealEstate__Dabber__UI\\Views\\Statistics\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Views\\Statistics\\Index.cshtml",
+              "RelativeToolTip": "RealEstate__Dabber__UI\\Views\\Statistics\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwBoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-25T10:26:59.575Z",
+              "WhenOpened": "2024-07-26T15:57:03.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "RealEstate__Dabber__UI\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "RealEstate__Dabber__UI\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABRAAAA",
+              "DocumentIndex": 2,
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "RealEstate__Dabber__UI\\Controllers\\StatisticsController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "RealEstate__Dabber__UI\\Controllers\\StatisticsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T14:17:30.023Z"
+              "WhenOpened": "2024-07-26T15:56:27.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatisticsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate_Dabber_Api\\Repositories\\StatisticsRepositories\\StatisticsRepository.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dabber_Api\\Repositories\\StatisticsRepositories\\StatisticsRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate_Dabber_Api\\Repositories\\StatisticsRepositories\\StatisticsRepository.cs",
+              "RelativeToolTip": "RealEstate_Dabber_Api\\Repositories\\StatisticsRepositories\\StatisticsRepository.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAQwL8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:44:49.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate_Dabber_Api\\Program.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dabber_Api\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate_Dabber_Api\\Program.cs",
+              "RelativeToolTip": "RealEstate_Dabber_Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:21:18.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate_Dabber_Api\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dabber_Api\\Controllers\\StatisticsController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate_Dabber_Api\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "RealEstate_Dabber_Api\\Controllers\\StatisticsController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAHoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:15:32.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStatisticsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate_Dabber_Api\\Repositories\\StatisticsRepositories\\IStatisticsRepository.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dabber_Api\\Repositories\\StatisticsRepositories\\IStatisticsRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate_Dabber_Api\\Repositories\\StatisticsRepositories\\IStatisticsRepository.cs",
+              "RelativeToolTip": "RealEstate_Dabber_Api\\Repositories\\StatisticsRepositories\\IStatisticsRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAMwAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:44:27.285Z"
             }
           ]
         },
         {
-          "DockedHeight": 109,
+          "DockedHeight": 69,
           "SelectedChildIndex": -1,
           "Children": [
             {

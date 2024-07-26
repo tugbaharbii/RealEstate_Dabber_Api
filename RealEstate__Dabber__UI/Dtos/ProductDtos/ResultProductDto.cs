@@ -1,6 +1,6 @@
 ﻿namespace RealEstate__Dabber__UI.Dtos.ProductDtos
 {
-    public class ResultProductDtos
+    public class ResultProductDto
     {
         public int productID { get; set; }
         public string title { get; set; }

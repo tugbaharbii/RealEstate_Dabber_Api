@@ -6,11 +6,11 @@ namespace RealEstate_Dabber_Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class PopularLocationController : ControllerBase
+    public class PopularLocationsController : ControllerBase
     {
         private readonly IPopularLocationRepository _locationRepository;
 
-        public PopularLocationController(IPopularLocationRepository locationRepository)
+        public PopularLocationsController(IPopularLocationRepository locationRepository)
         {
             _locationRepository = locationRepository;
         }

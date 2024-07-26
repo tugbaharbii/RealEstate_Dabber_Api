@@ -223,3 +223,4 @@ C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\obj\Debug\net8.0\RealEstate__Dabber__UI.sourcelink.json
