@@ -1,7 +1,7 @@
 ﻿
 using RealEstate_Dabber_Api.Dtos.WhoWeAreDetailDtos;
 using RealEstate_Dabber_Api.Models.DapperContex;
-using RealEstate_Dabber_Api.Repositories.WhoAreRepository;
+using RealEstate_Dabber_Api.Repositories.WhoWeAreRepository;
 using System.Data.Dabber;
 
 

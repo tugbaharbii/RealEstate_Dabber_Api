@@ -26,8 +26,48 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Areas/EstateAgent/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXN0YXRlQWdlbnRcVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Areas/EstateAgent/Views/LayoutEstateAgent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXN0YXRlQWdlbnRcVmlld3NcTGF5b3V0RXN0YXRlQWdlbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Areas/EstateAgent/Views/MyAdverts/ActiveAdverts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXN0YXRlQWdlbnRcVmlld3NcTXlBZHZlcnRzXEFjdGl2ZUFkdmVydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Areas/EstateAgent/Views/MyAdverts/CreateAdvert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXN0YXRlQWdlbnRcVmlld3NcTXlBZHZlcnRzXENyZWF0ZUFkdmVydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Areas/EstateAgent/Views/MyAdverts/PassiveAdverts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXN0YXRlQWdlbnRcVmlld3NcTXlBZHZlcnRzXFBhc3NpdmVBZHZlcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Areas/EstateAgent/Views/Shared/Components/_NavbarLast3MessageComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXN0YXRlQWdlbnRcVmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05hdmJhckxhc3QzTWVzc2FnZUNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Areas/EstateAgent/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXN0YXRlQWdlbnRcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/BottomGrid/CreateBottomGrid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm90dG9tR3JpZFxDcmVhdGVCb3R0b21HcmlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/BottomGrid/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm90dG9tR3JpZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/BottomGrid/UpdateBottomGrid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm90dG9tR3JpZFxVcGRhdGVCb3R0b21HcmlkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Category/CreateCategory.cshtml]
@@ -40,6 +80,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Category/UpdateCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcVXBkYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Default/Index.cshtml]
@@ -66,6 +110,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/PopularLocation/CreatePopularLocation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9wdWxhckxvY2F0aW9uXENyZWF0ZVBvcHVsYXJMb2NhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/PopularLocation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9wdWxhckxvY2F0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/PopularLocation/UpdatePopularLocation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9wdWxhckxvY2F0aW9uXFVwZGF0ZVBvcHVsYXJMb2NhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Product/CreateProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGVQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -80,6 +140,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Profile/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Property/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Property/PropertySingle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcUHJvcGVydHlTaW5nbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Service/CreateService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxDcmVhdGVTZXJ2aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Service/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Service/UpdateService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxVcGRhdGVTZXJ2aWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Shared/Components/_AdminLayoutFooterComponentPartial/Default.cshtml]
@@ -104,6 +184,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Shared/Components/_AdminLayoutSpinnerComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluTGF5b3V0U3Bpbm5lckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Shared/Components/_DashboardLast4ContactListComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rhc2hib2FyZExhc3Q0Q29udGFjdExpc3RDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Shared/Components/_DashboardLast5ProductComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rhc2hib2FyZExhc3Q1UHJvZHVjdENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Shared/Components/_DashboardStatisticsComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rhc2hib2FyZFN0YXRpc3RpY3NDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Shared/Components/_DashboardToDoListComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rhc2hib2FyZFRvRG9MaXN0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Shared/Components/_DefaultBottomGridComponentPartial/Default.cshtml]
@@ -150,6 +246,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRXaG9BcmVDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Shared/Components/_EstateAgentDashboardChartComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0VzdGF0ZUFnZW50RGFzaGJvYXJkQ2hhcnRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Shared/Components/_EstateAgentDashboardStatisticComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0VzdGF0ZUFnZW50RGFzaGJvYXJkU3RhdGlzdGljQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Shared/Components/_EstateAgentLast5ProductComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0VzdGF0ZUFnZW50TGFzdDVQcm9kdWN0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Shared/Components/_EstateAgentLayoutSidebarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0VzdGF0ZUFnZW50TGF5b3V0U2lkZWJhckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Shared/Components/_EstateAgentNavbarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0VzdGF0ZUFnZW50TmF2YmFyQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Shared/Components/_HeadarViewComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0hlYWRhclZpZXdDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -176,6 +292,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Statistics/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/Test/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/WhoWeAre/CreateWhoWeAreDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2hvV2VBcmVcQ3JlYXRlV2hvV2VBcmVEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/WhoWeAre/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2hvV2VBcmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/WhoWeAre/UpdatewhoWeAreDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2hvV2VBcmVcVXBkYXRld2hvV2VBcmVEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/hp/source/repos/RealEstate_Dabber_Api/RealEstate__Dabber__UI/Views/_ViewImports.cshtml]

@@ -1,7 +1,7 @@
 ﻿
 using RealEstate_Dabber_Api.Dtos.WhoWeAreDetailDtos;
 
-namespace RealEstate_Dabber_Api.Repositories.WhoAreRepository
+namespace RealEstate_Dabber_Api.Repositories.WhoWeAreRepository
 {
     public interface IWhoWeAreDetailRepository
     {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RealEstate__Dabber__UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+740738db079e2b1306162d1b5a0f2fe6f775e7a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1f589b61c02fd808d3334879553216e7b644d7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RealEstate__Dabber__UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RealEstate__Dabber__UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using RealEstate_Dabber_Api.Dtos.ServiceDtos;
 using RealEstate_Dabber_Api.Repositories.ServiceRepository;
 
 namespace RealEstate_Dabber_Api.Controllers
@@ -20,5 +21,35 @@ namespace RealEstate_Dabber_Api.Controllers
             var value =  await _serviceRepository.GetAllServiceAsync();
             return Ok(value);
         }
+
+        [HttpPost]
+        public async Task<IActionResult> CreateService(CreateServiceDto createServiceDto)
+        {
+            _serviceRepository.CreateService(createServiceDto);
+            return Ok("Hizmet kısmı Başarılı Bir Şekilde Eklendi");
+        }
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteService(int id)
+        {
+            _serviceRepository.DeleteService(id);
+            return Ok("hizmet kısmı Başarılı Bir Şekilde Silindi");
+        }
+        [HttpPut]
+        public async Task<IActionResult> UpdateService(UpdateServiceDto updateServiceDto)
+        {
+            _serviceRepository.UpdateService(updateServiceDto);
+            return Ok("hizmet kısmı Başarıyla Güncellendi");
+        }
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetService(int id)
+        {
+
+            var value = await _serviceRepository.GetService(id);
+            return Ok(value);
+
+        }
+
+
+
     }
 }

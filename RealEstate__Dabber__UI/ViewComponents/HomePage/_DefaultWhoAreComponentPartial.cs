@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using RealEstate__Dabber__UI.Dtos.ServiceDto;
 using RealEstate__Dabber__UI.Dtos.WhoWeAreDtos;
 using System.Drawing.Text;
 
@@ -16,10 +17,10 @@ namespace RealEstate__Dabber__UI.ViewComponents.HomePage
 
         public async Task<IViewComponentResult> InvokeAsync() 
         { 
-           var client2 = _httpClientFactory.CreateClient();
            var client = _httpClientFactory.CreateClient();
-      var responseMessage = await client.GetAsync("https://localhost:44325/api/WhoWeAreDetail");
-           var responseMessage2 = await client2.GetAsync("https://localhost:44325/api/Service");
+           var client2 = _httpClientFactory.CreateClient();
+           var responseMessage = await client.GetAsync("https://localhost:44325/api/WhoWeAreDetail");
+           var responseMessage2 = await client2.GetAsync("https://localhost:44325/api/Services");
 
             if ( responseMessage.IsSuccessStatusCode && responseMessage2.IsSuccessStatusCode) 
             {

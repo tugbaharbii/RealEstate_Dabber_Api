@@ -1,5 +1,6 @@
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\appsettings.json
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\libman.json
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\RealEstate__Dabber__UI.staticwebassets.runtime.json
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\RealEstate__Dabber__UI.exe
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\RealEstate__Dabber__UI.deps.json
@@ -32,6 +33,7 @@ C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\NuGet.Common.dll
@@ -50,8 +52,11 @@ C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\System.Windows.Extensions.dll
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\af\Humanizer.resources.dll
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\ar\Humanizer.resources.dll
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\az\Humanizer.resources.dll
@@ -191,6 +196,10 @@ C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\obj\Debug\net8.0\RealEstate__Dabber__UI.csproj.AssemblyReference.cache
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\obj\Debug\net8.0\RealEstate__Dabber__UI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\obj\Debug\net8.0\RealEstate__Dabber__UI.AssemblyInfoInputs.cache
@@ -199,6 +208,7 @@ C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\obj\Debug\
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\obj\Debug\net8.0\RealEstate__Dabber__UI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\obj\Debug\net8.0\RealEstate__Dabber__UI.RazorAssemblyInfo.cache
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\obj\Debug\net8.0\RealEstate__Dabber__UI.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\obj\Debug\net8.0\RealEstate__Dabber__UI.sourcelink.json
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\obj\Debug\net8.0\staticwebassets\msbuild.RealEstate__Dabber__UI.Microsoft.AspNetCore.StaticWebAssets.props
@@ -215,12 +225,11 @@ C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\obj\Debug\
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\obj\Debug\net8.0\RealEstate__Dabber__UI.pdb
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\obj\Debug\net8.0\RealEstate__Dabber__UI.genruntimeconfig.cache
 C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\obj\Debug\net8.0\ref\RealEstate__Dabber__UI.dll
-C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\System.Drawing.Common.dll
-C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\System.Windows.Extensions.dll
-C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
-C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
-C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\obj\Debug\net8.0\RealEstate__Dabber__UI.sourcelink.json
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\source\repos\RealEstate_Dabber_Api\RealEstate__Dabber__UI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
