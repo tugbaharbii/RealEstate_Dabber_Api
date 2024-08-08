@@ -16,10 +16,11 @@ Kullanıcıların istedikleri lokasyona göre güncel ev ilanlarına kolayca eri
   - Site genel ayarlarını düzenleyebilir.
  
 
-  ASP.NET Core 8.0 Web APIve MVC kullanarak geliştirdiğim proje , tüm CRUD işlemlerini API üzerinden gerçekleştirir ve bu işlemler MVC tarfından consume edilir.Dinamik veritabanı yönetimi için Entity Framework Code First kullanılmıştır.
+  ASP.NET Core 8.0 Web APIve MVC kullanarak geliştirdiğim proje , tüm CRUD işlemlerini API üzerinden gerçekleştirir ve bu işlemler MVC tarfından consume edilir.Dinamik veritabanı yönetimi için Entity Framework 
+  Code First kullanılmıştır.
   Onion Architecre mimari yapısı ve CQRS,Mediator,Repository design patternler kullanılarak projede uygulanarak kodun daha modüler ve sürdürülebilir olmasına öncelik verilmiştir.
 
-  - **Kullanılan Teknolojiler:**
+- **Kullanılan Teknolojiler:**
   - Asp.net Core 8.0
   - Asp.Net Web API
   - MSSQL
@@ -33,13 +34,13 @@ Kullanıcıların istedikleri lokasyona göre güncel ev ilanlarına kolayca eri
   - JavaScript
   - Bootstrap
 
-  - **Frontend:**
+ - **Frontend:**
   - Html
   - Css
   - Bootstrap
   - JavaScript
 
-  - **Öne Çıkarılan Özellikler:**
+ - **Öne Çıkarılan Özellikler:**
   - Uygun lokasyona göre müsait ev kiralama ve satın alma
   - Evlerin detaylarını görüntüleme
   - Evlerin bilgilerini güncelleme
@@ -51,7 +52,7 @@ Kullanıcıların istedikleri lokasyona göre güncel ev ilanlarına kolayca eri
   - Mail Gönderme
   - Validation Kontrolleri
 
-  -**Teknik Özellikler:**
+ - **Teknik Özellikler:**
   - MSSQL Veritabanı
   - Asp.Net Core 8.0
   - Asp.Net Core Web API
