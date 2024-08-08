@@ -1,4 +1,4 @@
-# CarBook Ev Satın Alma & Kiralama Sitesi
+# Real Estate Ev Satın Alma & Kiralama Sitesi
 ## Projenin Temel Amacı
 Kullanıcıların istedikleri lokasyona göre güncel ev ilanlarına kolayca erişebilmeleri, eğer gidebilecek müsaitlikleri yoksa facetime ile evi gezebilmeleri, emlakçı ile kolayca ve profesyonel bir şekilde iletişime geçebilmelerini sağlamak.
 
@@ -19,45 +19,45 @@ Kullanıcıların istedikleri lokasyona göre güncel ev ilanlarına kolayca eri
   ASP.NET Core 8.0 Web APIve MVC kullanarak geliştirdiğim proje , tüm CRUD işlemlerini API üzerinden gerçekleştirir ve bu işlemler MVC tarfından consume edilir.Dinamik veritabanı yönetimi için Entity Framework Code First kullanılmıştır.
   Onion Architecre mimari yapısı ve CQRS,Mediator,Repository design patternler kullanılarak projede uygulanarak kodun daha modüler ve sürdürülebilir olmasına öncelik verilmiştir.
 
-  ## Kullanılan Teknolojiler
-  &#8226; Asp.net Core 8.0
-  &#8226; Asp.Net Web API
-  &#8226; MSSQL
-  &#8226; Entity Framework Code First
-  &#8226; SignalR
-  &#8226; json Web Token
-  &#8226;  MailKit
-  &#8226; FluenValidation
-  &#8226; Html
-  &#8226; Css
-  &#8226; JavaScript
-  &#8226; Bootstrap
+  - **Kullanılan Teknolojiler:**
+  - Asp.net Core 8.0
+  - Asp.Net Web API
+  - MSSQL
+  - Entity Framework Code First
+  - SignalR
+  - json Web Token
+  -  MailKit
+  - FluenValidation
+  - Html
+  - Css
+  - JavaScript
+  - Bootstrap
 
-  ## Frontend
-  &#8226; Html
-  &#8226; css
-  &#8226; Bootstrap
-  &#8226; JavaScript
+  - **Frontend:**
+  - Html
+  - Css
+  - Bootstrap
+  - JavaScript
 
-  ## Öne Çıkarılan Özellikler
-  &#8226; Uygun lokasyona göre müsait ev kiralama ve satın alma
-  &#8226; Evlerin detaylarını görüntüleme
-  &#8226; Evlerin bilgilerini güncelleme
-  &#8226; MSSQL ilişkili tablolar
-  &#8226; Admin Panel
-  &#8226; SignalR ile canlı veri takibi
-  &#8226; json Web Token ile Identity güvenliği
-  &#8226; İstatislikler
-  &#8226; Mail Gönderme
-  &#8226; Validation Kontrolleri
+  - **Öne Çıkarılan Özellikler:**
+  - Uygun lokasyona göre müsait ev kiralama ve satın alma
+  - Evlerin detaylarını görüntüleme
+  - Evlerin bilgilerini güncelleme
+  - MSSQL ilişkili tablolar
+  - Admin Panel
+  - SignalR ile canlı veri takibi
+  - json Web Token ile Identity güvenliği
+  - İstatislikler
+  - Mail Gönderme
+  - Validation Kontrolleri
 
-  ## Teknik Özellikler
-  &#8226; MSSQL Veritabanı
-  &#8226;  Asp.Net Core 8.0
-  &#8226; Asp.Net Core Web API
-  &#8226;  Onion Mimari
-  &#8226; CQRS,Mediator,Repository Dessign Pattern
-  &#8226; Entity Framework Code First LINQ
-  &#8226; SignalR
+  -**Teknik Özellikler:**
+  - MSSQL Veritabanı
+  - Asp.Net Core 8.0
+  - Asp.Net Core Web API
+  - Onion Mimari
+  - CQRS,Mediator,Repository Dessign Pattern
+  - Entity Framework Code First LINQ
+  - SignalR
   
   
