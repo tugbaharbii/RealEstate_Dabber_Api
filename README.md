@@ -35,30 +35,30 @@ Kullanıcıların istedikleri lokasyona göre güncel ev ilanlarına kolayca eri
   - Bootstrap
 
  - **Frontend:**
-  - Html
-  - Css
-  - Bootstrap
-  - JavaScript
+   - Html
+   - Css
+   - Bootstrap
+   - JavaScript
 
  - **Öne Çıkarılan Özellikler:**
-  - Uygun lokasyona göre müsait ev kiralama ve satın alma
-  - Evlerin detaylarını görüntüleme
-  - Evlerin bilgilerini güncelleme
-  - MSSQL ilişkili tablolar
-  - Admin Panel
-  - SignalR ile canlı veri takibi
-  - json Web Token ile Identity güvenliği
-  - İstatislikler
-  - Mail Gönderme
-  - Validation Kontrolleri
+   - Uygun lokasyona göre müsait ev kiralama ve satın alma
+   - Evlerin detaylarını görüntüleme
+   - Evlerin bilgilerini güncelleme
+   - MSSQL ilişkili tablolar
+   - Admin Panel
+   - SignalR ile canlı veri takibi
+   - json Web Token ile Identity güvenliği
+   - İstatislikler
+   - Mail Gönderme
+   - Validation Kontrolleri
 
  - **Teknik Özellikler:**
-  - MSSQL Veritabanı
-  - Asp.Net Core 8.0
-  - Asp.Net Core Web API
-  - Onion Mimari
-  - CQRS,Mediator,Repository Dessign Pattern
-  - Entity Framework Code First LINQ
-  - SignalR
+   - MSSQL Veritabanı
+   - Asp.Net Core 8.0
+   - Asp.Net Core Web API
+   - Onion Mimari
+   - CQRS,Mediator,Repository Dessign Pattern
+   - Entity Framework Code First LINQ
+   - SignalR
   
   
