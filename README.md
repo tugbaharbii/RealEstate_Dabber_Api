@@ -61,5 +61,5 @@ Kullanıcıların istedikleri lokasyona göre güncel ev ilanlarına kolayca eri
    - Entity Framework Code First LINQ
    - SignalR
 
-  
+  ![Anasayfa Ekran Görüntüsü](https://github.com/tugbaharbii/RealEstate_Dabber_Api/blob/master/anasayfa.png?raw=true)
   
