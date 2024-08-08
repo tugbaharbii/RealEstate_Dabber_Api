@@ -70,4 +70,6 @@ Kullanıcıların istedikleri lokasyona göre güncel ev ilanlarına kolayca eri
   ![Swagger Ekran Görüntüsü](https://github.com/tugbaharbii/RealEstate_Dabber_Api/blob/master/swagger.png?raw=true)
 
   ![Admin Ekran Görüntüsü](https://github.com/tugbaharbii/RealEstate_Dabber_Api/blob/master/admin.png?raw=true)
+
+  ![Admin Kısmı Popüler Lokasyon Ekran Görüntüsü](https://github.com/tugbaharbii/RealEstate_Dabber_Api/blob/master/popularlocation.png?raw=true)
   
