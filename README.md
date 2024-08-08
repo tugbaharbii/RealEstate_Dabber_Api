@@ -66,4 +66,6 @@ Kullanıcıların istedikleri lokasyona göre güncel ev ilanlarına kolayca eri
   ![Günün Favori İlanları Ekran Görüntüsü](https://github.com/tugbaharbii/RealEstate_Dabber_Api/blob/master/gununfavoriilanlari.png?raw=true)
 
   ![Biz Kimiz Ekran Görüsntüsü](https://github.com/tugbaharbii/RealEstate_Dabber_Api/blob/master/bizkimiz.png?raw=true)
+
+  ![Swagger Ekran Görüntüsü](https://github.com/tugbaharbii/RealEstate_Dabber_Api/blob/master/swagger.png?raw=true)
   
