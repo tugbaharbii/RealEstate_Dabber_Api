@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|c:\\users\\hp\\source\\repos\\realestate_dabber_api\\realestate__dabber__ui\\views\\property\\propertysingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|solutionrelative:realestate__dabber__ui\\views\\property\\propertysingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|c:\\users\\hp\\source\\repos\\realestate_dabber_api\\realestate__dabber__ui\\views\\property\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|solutionrelative:realestate__dabber__ui\\views\\property\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|c:\\users\\hp\\source\\repos\\realestate_dabber_api\\realestate__dabber__ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|solutionrelative:realestate__dabber__ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4E970-A844-4F7C-9473-387CF40F46B9}|RealEstate_Dabber_Api\\RealEstate_Dabber_Api.csproj|c:\\users\\hp\\source\\repos\\realestate_dabber_api\\realestate_dabber_api\\repositories\\productrepository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4E970-A844-4F7C-9473-387CF40F46B9}|RealEstate_Dabber_Api\\RealEstate_Dabber_Api.csproj|solutionrelative:realestate_dabber_api\\repositories\\productrepository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|c:\\users\\hp\\source\\repos\\realestate_dabber_api\\realestate__dabber__ui\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|solutionrelative:realestate__dabber__ui\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|c:\\users\\hp\\source\\repos\\realestate_dabber_api\\realestate__dabber__ui\\views\\property\\propertysingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|solutionrelative:realestate__dabber__ui\\views\\property\\propertysingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|c:\\users\\hp\\source\\repos\\realestate_dabber_api\\realestate__dabber__ui\\dtos\\productdtos\\resultproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76339C2-2638-46AF-A4DA-950D5B11B2AC}|RealEstate__Dabber__UI\\RealEstate__Dabber__UI.csproj|solutionrelative:realestate__dabber__ui\\dtos\\productdtos\\resultproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +34,60 @@
       "DocumentGroups": [
         {
           "DockedHeight": 321,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Program.cs",
+              "RelativeDocumentMoniker": "RealEstate__Dabber__UI\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Program.cs",
+              "RelativeToolTip": "RealEstate__Dabber__UI\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:59:32.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Views\\Property\\Index.cshtml",
+              "RelativeDocumentMoniker": "RealEstate__Dabber__UI\\Views\\Property\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Views\\Property\\Index.cshtml",
+              "RelativeToolTip": "RealEstate__Dabber__UI\\Views\\Property\\Index.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T08:48:28.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PropertySingle.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Views\\Property\\PropertySingle.cshtml",
+              "RelativeDocumentMoniker": "RealEstate__Dabber__UI\\Views\\Property\\PropertySingle.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Views\\Property\\PropertySingle.cshtml",
+              "RelativeToolTip": "RealEstate__Dabber__UI\\Views\\Property\\PropertySingle.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T08:47:57.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "RelativeDocumentMoniker": "RealEstate__Dabber__UI\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "RelativeToolTip": "RealEstate__Dabber__UI\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:46:43.415Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -30,28 +98,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PropertySingle.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Views\\Property\\PropertySingle.cshtml",
-              "RelativeDocumentMoniker": "RealEstate__Dabber__UI\\Views\\Property\\PropertySingle.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Views\\Property\\PropertySingle.cshtml",
-              "RelativeToolTip": "RealEstate__Dabber__UI\\Views\\Property\\PropertySingle.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-01T19:46:29.334Z",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate_Dabber_Api\\Repositories\\ProductRepository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dabber_Api\\Repositories\\ProductRepository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate_Dabber_Api\\Repositories\\ProductRepository\\ProductRepository.cs",
+              "RelativeToolTip": "RealEstate_Dabber_Api\\Repositories\\ProductRepository\\ProductRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAADYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:40:51.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PropertyController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Controllers\\PropertyController.cs",
               "RelativeDocumentMoniker": "RealEstate__Dabber__UI\\Controllers\\PropertyController.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\RealEstate_Dabber_Api\\RealEstate__Dabber__UI\\Controllers\\PropertyController.cs",
               "RelativeToolTip": "RealEstate__Dabber__UI\\Controllers\\PropertyController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAsAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAG0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T19:46:20.194Z",
+              "WhenOpened": "2024-08-08T08:11:35.291Z",
               "EditorCaption": ""
             }
           ]

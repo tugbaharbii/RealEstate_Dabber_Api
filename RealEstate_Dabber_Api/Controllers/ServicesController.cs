@@ -18,26 +18,26 @@ namespace RealEstate_Dabber_Api.Controllers
         [HttpGet]
         public async Task< IActionResult> GetServiceList()
         {
-            var value =  await _serviceRepository.GetAllServiceAsync();
+            var value =  await _serviceRepository.GetAllService();
             return Ok(value);
         }
 
         [HttpPost]
         public async Task<IActionResult> CreateService(CreateServiceDto createServiceDto)
         {
-            _serviceRepository.CreateService(createServiceDto);
+           await  _serviceRepository.CreateService(createServiceDto);
             return Ok("Hizmet kısmı Başarılı Bir Şekilde Eklendi");
         }
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteService(int id)
         {
-            _serviceRepository.DeleteService(id);
+         await   _serviceRepository.DeleteService(id);
             return Ok("hizmet kısmı Başarılı Bir Şekilde Silindi");
         }
         [HttpPut]
         public async Task<IActionResult> UpdateService(UpdateServiceDto updateServiceDto)
         {
-            _serviceRepository.UpdateService(updateServiceDto);
+          await  _serviceRepository.UpdateService(updateServiceDto);
             return Ok("hizmet kısmı Başarıyla Güncellendi");
         }
         [HttpGet("{id}")]

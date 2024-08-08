@@ -5,10 +5,10 @@ namespace RealEstate_Dabber_Api.Repositories.BottomGridRepositories
 {
     public interface IBottomGridRepository
     {
-        Task <List<ResultBottomGridDto>> GetAllBottomGridAsync();
-        void CreateBottomGrid(CreateBottomGridDto createServiceDto);
-        void DeleteBottomGrid(int id);
-        void UpdateBottomGrid(UpdateBottomGridDto updateBottomGridDto);
+        Task <List<ResultBottomGridDto>> GetAllBottomGrid();
+        Task CreateBottomGrid(CreateBottomGridDto createServiceDto);
+        Task DeleteBottomGrid(int id);
+        Task UpdateBottomGrid(UpdateBottomGridDto updateBottomGridDto);
         Task<GetBottomGridDto> GetBottomGrid(int id);
 
 

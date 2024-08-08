@@ -13,7 +13,7 @@ namespace RealEstate_Dabber_Api.Models.Repositoris.CategoryRepositoris
             _context = context;
         }
 
-        public async void CreateCategory(CreateCatogaryDto categoryDto)
+        public async Task CreateCategory(CreateCatogaryDto categoryDto)
         {
             string query = "insert into Category (CategoryName,CategoryStatus) values (@categoryName,@categoryStatus)";
             var parameters = new DynamicParameters();
@@ -25,7 +25,7 @@ namespace RealEstate_Dabber_Api.Models.Repositoris.CategoryRepositoris
             }
         }
 
-        public  async void DeleteCategory(int id)
+        public  async Task DeleteCategory(int id)
         {
             string query = "Delete From Category Where CategoryID=@categoryID";
             var parameters = new DynamicParameters();
@@ -36,7 +36,7 @@ namespace RealEstate_Dabber_Api.Models.Repositoris.CategoryRepositoris
             }
         }
 
-        public async Task<List<resultCategoryDto>> GetAllCategoryAsync()
+        public async Task<List<resultCategoryDto>> GetAllCategory()
         {
             string query = "Select * From Category";
             using (var connection = _context.CreateConnection())
@@ -61,7 +61,7 @@ namespace RealEstate_Dabber_Api.Models.Repositoris.CategoryRepositoris
 
         }
 
-        public async void UpdateCategory(UpdateCategoryDto categoryDto)
+        public async Task UpdateCategory(UpdateCategoryDto categoryDto)
         {
             string query = "Update Category Set CategoryName=@categoryName,CategoryStatus=@categoryStatus where CategoryID=@categoryID";
             var parameters = new DynamicParameters();
