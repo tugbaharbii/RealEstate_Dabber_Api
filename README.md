@@ -60,5 +60,6 @@ Kullanıcıların istedikleri lokasyona göre güncel ev ilanlarına kolayca eri
    - CQRS,Mediator,Repository Dessign Pattern
    - Entity Framework Code First LINQ
    - SignalR
-  
+
+  ![Emlak Web Sitesi Ekran Görüntüsü]("C:\Users\hp\OneDrive\Resimler\Ekran Görüntüleri\anasayfa.png")
   
