@@ -62,4 +62,5 @@ Kullanıcıların istedikleri lokasyona göre güncel ev ilanlarına kolayca eri
    - SignalR
 
   ![Anasayfa Ekran Görüntüsü](https://github.com/tugbaharbii/RealEstate_Dabber_Api/blob/master/anasayfa.png?raw=true)
+  ![Günün Favori İlanları](https://github.com/tugbaharbii/RealEstate_Dabber_Api/blob/master/gununfavoriilanlari.png?raw=true)
   
